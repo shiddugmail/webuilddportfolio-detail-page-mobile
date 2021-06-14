@@ -1,0 +1,132 @@
+.bigrid-3x2-gap {
+  cursor: pointer;
+  height: 40px;
+  mix-blend-mode: normal;
+  width: 40px;
+}
+.frame-1615 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-right: 1.0px;
+  margin-top: 40px;
+  min-height: 2096px;
+  width: 328px;
+}
+.frame-1622 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 240px;
+  width: 127px;
+}
+.frame-1623 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 24px;
+  min-height: 320px;
+  position: relative;
+  width: 140px;
+}
+.frame-18 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 24px;
+  min-height: 76px;
+  width: 127px;
+}
+.next {
+  color: var(--black);
+  font-weight: 800;
+  height: 30px;
+  line-height: 30px;
+  margin-left: 2.0px;
+  min-height: 30px;
+  min-width: 47px;
+  mix-blend-mode: normal;
+  text-align: center;
+  white-space: nowrap;
+}
+.previous {
+  color: var(--black);
+  font-weight: 800;
+  height: 30px;
+  line-height: 30px;
+  margin-left: 2.0px;
+  min-height: 30px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  text-align: center;
+  white-space: nowrap;
+}
+.project-name {
+  color: var(--light-grey);
+  font-weight: 800;
+  height: 30px;
+  line-height: 30px;
+  margin-left: 2.0px;
+  margin-top: 16px;
+  min-height: 30px;
+  min-width: 129px;
+  mix-blend-mode: normal;
+  text-align: center;
+  white-space: nowrap;
+}
+.rectangle-76 {
+  height: 122px;
+  margin-top: 24px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  width: 377px;
+}
+.rectangle-9 {
+  height: 272px;
+  margin-top: 24px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  width: 328px;
+}
+.rectangle-91 {
+  height: 272px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  width: 328px;
+}
+.text-1 {
+  color: var(--black);
+  line-height: 24px;
+  margin-left: 2.0px;
+  margin-top: 24px;
+  min-height: 406px;
+  min-width: 337px;
+  mix-blend-mode: normal;
+  width: 337px;
+}
+.title {
+  color: var(--black);
+  font-weight: 800;
+  height: 24px;
+  line-height: 34px;
+  margin-bottom: -10px;
+  margin-left: 2.0px;
+  margin-top: 34px;
+  min-height: 24px;
+  min-width: 337px;
+  mix-blend-mode: normal;
+  text-align: center;
+  white-space: nowrap;
+  width: 337px;
+}
+.x04-portfolio-detail-page-mobile {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3415px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 377px;
+}
